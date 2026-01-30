@@ -135,7 +135,7 @@ img{max-width:100%; display:block}
   width:34px; height:34px;
   display:grid; place-items:center;
   border-radius:12px;
-  background:linear-gradient(135deg, var(--yellow), rgba(255,234,0,.7));
+  /* background:linear-gradient(135deg, var(--yellow), rgba(255,234,0,.7)); */
   color:#131313;
   font-weight:900;
   font-size:12px;
