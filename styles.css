@@ -329,7 +329,7 @@ img{max-width:100%; display:block}
 }
 .ribbon{
   position:absolute;
-  top:14px; right:14px;
+  top:5px; right:2px;
   padding:8px 10px;
   border-radius:999px;
   background:rgba(255,234,0,.16);
