@@ -97,7 +97,7 @@ img{max-width:100%; display:block}
   padding:12px 16px;
   border-radius:16px;
   border:1px solid rgba(255,255,255,.12);
-  background:linear-gradient(135deg, rgba(45,125,255,.98), rgba(112,179,255,.92));
+  background:linear-gradient(135deg, rgba(45,125,255,.98));
   color:#06101f;
   font-weight:800;
   letter-spacing:.01em;
